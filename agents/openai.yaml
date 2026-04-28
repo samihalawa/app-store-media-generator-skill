@@ -1,0 +1,4 @@
+name: app-store-media-generator-skill
+description: Prompt-only workflow for critiquing, sourcing, generating, sizing, and organizing app store media assets across Apple App Store and Google Play.
+skills:
+  - SKILL.md
